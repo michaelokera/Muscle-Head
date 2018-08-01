@@ -1,0 +1,5 @@
+C:\Users\Michael Two\Documents\MichaelAutoRepo2018\Michael2018Sol\Michael2018Solution\bin\Debug\Michael2018Solution.exe.config
+C:\Users\Michael Two\Documents\MichaelAutoRepo2018\Michael2018Sol\Michael2018Solution\bin\Debug\Michael2018Solution.exe
+C:\Users\Michael Two\Documents\MichaelAutoRepo2018\Michael2018Sol\Michael2018Solution\bin\Debug\Michael2018Solution.pdb
+C:\Users\Michael Two\Documents\MichaelAutoRepo2018\Michael2018Sol\Michael2018Solution\obj\Debug\Michael2018Solution.exe
+C:\Users\Michael Two\Documents\MichaelAutoRepo2018\Michael2018Sol\Michael2018Solution\obj\Debug\Michael2018Solution.pdb
